@@ -50,12 +50,6 @@ return a+b
 },10)
 console.log(element);
 
-
-
-
-
-
-
 // 6.some() True or False
 // let arr=[{NUM:3},{NUM:5},{NUM:7},{NUM:8},{NUM:9}]
 // let Arr=arr.some((e,i) =>{
